@@ -1,0 +1,33 @@
+# === Java ===
+*.class
+generated/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# === Maven ===
+target/
+
+# === IntelliJ ===
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# === Linux === 
+.*
+!.gitignore
+*~
+
+# KDE
+.directory
+
+# === Windows ===
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
